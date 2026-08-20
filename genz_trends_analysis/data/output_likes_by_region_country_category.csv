@@ -1,0 +1,301 @@
+region,country,trend_category,likes
+Europe,Denmark,AI tools & productivity,1680.16
+Europe,Denmark,Climate activism,3335.54
+Europe,Denmark,Comedy & meme culture,1567.04
+Europe,Denmark,Crypto & side hustles,309.97
+Europe,Denmark,Digital activism & political,831.12
+Europe,Denmark,Food & recipe trends,516.35
+Europe,Denmark,Football & sports culture,729.3
+Europe,Denmark,Gaming & esports,1570.92
+Europe,Denmark,Mental health awareness,1438.28
+Europe,Denmark,Modest fashion & heritage,63.92
+Europe,Denmark,Privacy & data rights,3231.93
+Europe,Denmark,Skincare & self-care,1474.36
+Europe,Denmark,Streetwear & sneakers,1713.94
+Europe,Denmark,Study/productivity aesthetic,1317.06
+Europe,Denmark,Sustainable fashion,3503.38
+Europe,France,AI tools & productivity,2005.1
+Europe,France,Climate activism,1842.97
+Europe,France,Comedy & meme culture,1604.95
+Europe,France,Crypto & side hustles,561.83
+Europe,France,Digital activism & political,714.44
+Europe,France,Food & recipe trends,743.22
+Europe,France,Football & sports culture,944.69
+Europe,France,Gaming & esports,1279.62
+Europe,France,Mental health awareness,1371.63
+Europe,France,Modest fashion & heritage,114.82
+Europe,France,Privacy & data rights,1708.75
+Europe,France,Skincare & self-care,1330.14
+Europe,France,Streetwear & sneakers,2001.44
+Europe,France,Study/productivity aesthetic,1384.32
+Europe,France,Sustainable fashion,2123.95
+Europe,Germany,AI tools & productivity,2342.48
+Europe,Germany,Climate activism,2794.57
+Europe,Germany,Comedy & meme culture,1613.12
+Europe,Germany,Crypto & side hustles,514.86
+Europe,Germany,Digital activism & political,576.8
+Europe,Germany,Food & recipe trends,717.85
+Europe,Germany,Football & sports culture,915.92
+Europe,Germany,Gaming & esports,1041.22
+Europe,Germany,Mental health awareness,1379.0
+Europe,Germany,Modest fashion & heritage,112.01
+Europe,Germany,Privacy & data rights,1982.26
+Europe,Germany,Skincare & self-care,1583.54
+Europe,Germany,Streetwear & sneakers,1755.89
+Europe,Germany,Study/productivity aesthetic,1391.44
+Europe,Germany,Sustainable fashion,2221.35
+Europe,Greece,AI tools & productivity,903.9
+Europe,Greece,Climate activism,861.97
+Europe,Greece,Comedy & meme culture,2386.29
+Europe,Greece,Crypto & side hustles,295.7
+Europe,Greece,Digital activism & political,455.61
+Europe,Greece,Food & recipe trends,1891.98
+Europe,Greece,Football & sports culture,2622.38
+Europe,Greece,Gaming & esports,845.28
+Europe,Greece,Mental health awareness,1020.48
+Europe,Greece,Modest fashion & heritage,117.06
+Europe,Greece,Privacy & data rights,794.81
+Europe,Greece,Skincare & self-care,1260.3
+Europe,Greece,Streetwear & sneakers,768.78
+Europe,Greece,Study/productivity aesthetic,748.33
+Europe,Greece,Sustainable fashion,1120.99
+Europe,Italy,AI tools & productivity,822.98
+Europe,Italy,Climate activism,851.32
+Europe,Italy,Comedy & meme culture,2172.67
+Europe,Italy,Crypto & side hustles,329.89
+Europe,Italy,Digital activism & political,440.69
+Europe,Italy,Food & recipe trends,2130.05
+Europe,Italy,Football & sports culture,3002.66
+Europe,Italy,Gaming & esports,826.38
+Europe,Italy,Mental health awareness,1045.19
+Europe,Italy,Modest fashion & heritage,113.2
+Europe,Italy,Privacy & data rights,547.6
+Europe,Italy,Skincare & self-care,1462.34
+Europe,Italy,Streetwear & sneakers,701.38
+Europe,Italy,Study/productivity aesthetic,609.6
+Europe,Italy,Sustainable fashion,1002.87
+Europe,Netherlands,AI tools & productivity,2136.84
+Europe,Netherlands,Climate activism,2056.39
+Europe,Netherlands,Comedy & meme culture,1639.71
+Europe,Netherlands,Crypto & side hustles,416.44
+Europe,Netherlands,Digital activism & political,644.3
+Europe,Netherlands,Food & recipe trends,734.8
+Europe,Netherlands,Football & sports culture,701.62
+Europe,Netherlands,Gaming & esports,1204.53
+Europe,Netherlands,Mental health awareness,1392.83
+Europe,Netherlands,Modest fashion & heritage,122.56
+Europe,Netherlands,Privacy & data rights,2047.9
+Europe,Netherlands,Skincare & self-care,1151.2
+Europe,Netherlands,Streetwear & sneakers,1656.49
+Europe,Netherlands,Study/productivity aesthetic,1297.09
+Europe,Netherlands,Sustainable fashion,2227.09
+Europe,Spain,AI tools & productivity,810.48
+Europe,Spain,Climate activism,912.48
+Europe,Spain,Comedy & meme culture,2560.6
+Europe,Spain,Crypto & side hustles,351.54
+Europe,Spain,Digital activism & political,492.16
+Europe,Spain,Food & recipe trends,2336.75
+Europe,Spain,Football & sports culture,2808.45
+Europe,Spain,Gaming & esports,786.06
+Europe,Spain,Mental health awareness,1067.15
+Europe,Spain,Modest fashion & heritage,135.64
+Europe,Spain,Privacy & data rights,785.39
+Europe,Spain,Skincare & self-care,1238.08
+Europe,Spain,Streetwear & sneakers,854.68
+Europe,Spain,Study/productivity aesthetic,643.21
+Europe,Spain,Sustainable fashion,1053.21
+Europe,Sweden,AI tools & productivity,1553.49
+Europe,Sweden,Climate activism,3552.5
+Europe,Sweden,Comedy & meme culture,1641.8
+Europe,Sweden,Crypto & side hustles,295.67
+Europe,Sweden,Digital activism & political,895.75
+Europe,Sweden,Food & recipe trends,599.67
+Europe,Sweden,Football & sports culture,626.35
+Europe,Sweden,Gaming & esports,1651.37
+Europe,Sweden,Mental health awareness,1515.02
+Europe,Sweden,Modest fashion & heritage,57.92
+Europe,Sweden,Privacy & data rights,2920.25
+Europe,Sweden,Skincare & self-care,1239.06
+Europe,Sweden,Streetwear & sneakers,1509.79
+Europe,Sweden,Study/productivity aesthetic,1489.56
+Europe,Sweden,Sustainable fashion,3698.22
+Europe,UK,AI tools & productivity,1768.94
+Europe,UK,Climate activism,2792.23
+Europe,UK,Comedy & meme culture,1743.09
+Europe,UK,Crypto & side hustles,328.45
+Europe,UK,Digital activism & political,880.17
+Europe,UK,Food & recipe trends,645.58
+Europe,UK,Football & sports culture,647.47
+Europe,UK,Gaming & esports,1506.87
+Europe,UK,Mental health awareness,1618.4
+Europe,UK,Modest fashion & heritage,72.66
+Europe,UK,Privacy & data rights,3396.15
+Europe,UK,Skincare & self-care,1557.18
+Europe,UK,Streetwear & sneakers,1542.09
+Europe,UK,Study/productivity aesthetic,1260.83
+Europe,UK,Sustainable fashion,3553.4
+MENA,Algeria,AI tools & productivity,712.8
+MENA,Algeria,Climate activism,149.26
+MENA,Algeria,Comedy & meme culture,3304.3
+MENA,Algeria,Crypto & side hustles,1618.22
+MENA,Algeria,Digital activism & political,5740.51
+MENA,Algeria,Food & recipe trends,957.41
+MENA,Algeria,Football & sports culture,1503.72
+MENA,Algeria,Gaming & esports,1711.39
+MENA,Algeria,Mental health awareness,734.74
+MENA,Algeria,Modest fashion & heritage,1134.43
+MENA,Algeria,Privacy & data rights,319.25
+MENA,Algeria,Skincare & self-care,717.25
+MENA,Algeria,Streetwear & sneakers,548.19
+MENA,Algeria,Study/productivity aesthetic,600.9
+MENA,Algeria,Sustainable fashion,279.3
+MENA,Egypt,AI tools & productivity,620.51
+MENA,Egypt,Climate activism,160.27
+MENA,Egypt,Comedy & meme culture,2775.51
+MENA,Egypt,Crypto & side hustles,1823.11
+MENA,Egypt,Digital activism & political,7826.58
+MENA,Egypt,Food & recipe trends,759.51
+MENA,Egypt,Football & sports culture,1545.0
+MENA,Egypt,Gaming & esports,1524.93
+MENA,Egypt,Mental health awareness,637.23
+MENA,Egypt,Modest fashion & heritage,1442.74
+MENA,Egypt,Privacy & data rights,373.72
+MENA,Egypt,Skincare & self-care,770.08
+MENA,Egypt,Streetwear & sneakers,513.34
+MENA,Egypt,Study/productivity aesthetic,691.28
+MENA,Egypt,Sustainable fashion,314.41
+MENA,Iraq,AI tools & productivity,731.08
+MENA,Iraq,Climate activism,142.31
+MENA,Iraq,Comedy & meme culture,2622.98
+MENA,Iraq,Crypto & side hustles,1255.04
+MENA,Iraq,Digital activism & political,5751.89
+MENA,Iraq,Food & recipe trends,883.53
+MENA,Iraq,Football & sports culture,1011.52
+MENA,Iraq,Gaming & esports,1176.58
+MENA,Iraq,Mental health awareness,804.6
+MENA,Iraq,Modest fashion & heritage,2136.82
+MENA,Iraq,Privacy & data rights,613.13
+MENA,Iraq,Skincare & self-care,719.4
+MENA,Iraq,Streetwear & sneakers,522.5
+MENA,Iraq,Study/productivity aesthetic,511.73
+MENA,Iraq,Sustainable fashion,388.73
+MENA,Jordan,AI tools & productivity,797.31
+MENA,Jordan,Climate activism,139.75
+MENA,Jordan,Comedy & meme culture,2592.25
+MENA,Jordan,Crypto & side hustles,1286.81
+MENA,Jordan,Digital activism & political,4800.25
+MENA,Jordan,Food & recipe trends,906.9
+MENA,Jordan,Football & sports culture,964.01
+MENA,Jordan,Gaming & esports,1443.82
+MENA,Jordan,Mental health awareness,879.83
+MENA,Jordan,Modest fashion & heritage,2106.79
+MENA,Jordan,Privacy & data rights,664.88
+MENA,Jordan,Skincare & self-care,784.45
+MENA,Jordan,Streetwear & sneakers,634.63
+MENA,Jordan,Study/productivity aesthetic,521.61
+MENA,Jordan,Sustainable fashion,367.11
+MENA,Kuwait,AI tools & productivity,1799.78
+MENA,Kuwait,Climate activism,62.76
+MENA,Kuwait,Comedy & meme culture,1973.74
+MENA,Kuwait,Crypto & side hustles,2282.16
+MENA,Kuwait,Digital activism & political,105.66
+MENA,Kuwait,Food & recipe trends,865.29
+MENA,Kuwait,Football & sports culture,1474.8
+MENA,Kuwait,Gaming & esports,4582.66
+MENA,Kuwait,Mental health awareness,463.78
+MENA,Kuwait,Modest fashion & heritage,5846.08
+MENA,Kuwait,Privacy & data rights,155.49
+MENA,Kuwait,Skincare & self-care,1954.56
+MENA,Kuwait,Streetwear & sneakers,1018.11
+MENA,Kuwait,Study/productivity aesthetic,590.15
+MENA,Kuwait,Sustainable fashion,195.63
+MENA,Lebanon,AI tools & productivity,696.67
+MENA,Lebanon,Climate activism,156.83
+MENA,Lebanon,Comedy & meme culture,2066.84
+MENA,Lebanon,Crypto & side hustles,1223.81
+MENA,Lebanon,Digital activism & political,4889.93
+MENA,Lebanon,Food & recipe trends,947.92
+MENA,Lebanon,Football & sports culture,829.27
+MENA,Lebanon,Gaming & esports,1324.55
+MENA,Lebanon,Mental health awareness,894.13
+MENA,Lebanon,Modest fashion & heritage,2665.86
+MENA,Lebanon,Privacy & data rights,841.78
+MENA,Lebanon,Skincare & self-care,721.96
+MENA,Lebanon,Streetwear & sneakers,512.79
+MENA,Lebanon,Study/productivity aesthetic,489.64
+MENA,Lebanon,Sustainable fashion,357.15
+MENA,Morocco,AI tools & productivity,690.14
+MENA,Morocco,Climate activism,163.19
+MENA,Morocco,Comedy & meme culture,2914.31
+MENA,Morocco,Crypto & side hustles,1797.78
+MENA,Morocco,Digital activism & political,6310.04
+MENA,Morocco,Food & recipe trends,708.84
+MENA,Morocco,Football & sports culture,1361.28
+MENA,Morocco,Gaming & esports,1691.14
+MENA,Morocco,Mental health awareness,682.94
+MENA,Morocco,Modest fashion & heritage,1365.26
+MENA,Morocco,Privacy & data rights,314.98
+MENA,Morocco,Skincare & self-care,751.55
+MENA,Morocco,Streetwear & sneakers,464.24
+MENA,Morocco,Study/productivity aesthetic,713.08
+MENA,Morocco,Sustainable fashion,234.19
+MENA,Qatar,AI tools & productivity,1759.04
+MENA,Qatar,Climate activism,70.09
+MENA,Qatar,Comedy & meme culture,1730.4
+MENA,Qatar,Crypto & side hustles,1953.31
+MENA,Qatar,Digital activism & political,85.9
+MENA,Qatar,Food & recipe trends,1089.37
+MENA,Qatar,Football & sports culture,1400.71
+MENA,Qatar,Gaming & esports,4358.34
+MENA,Qatar,Mental health awareness,587.21
+MENA,Qatar,Modest fashion & heritage,7133.34
+MENA,Qatar,Privacy & data rights,160.58
+MENA,Qatar,Skincare & self-care,2113.65
+MENA,Qatar,Streetwear & sneakers,1042.61
+MENA,Qatar,Study/productivity aesthetic,592.76
+MENA,Qatar,Sustainable fashion,189.94
+MENA,Saudi Arabia,AI tools & productivity,1652.71
+MENA,Saudi Arabia,Climate activism,71.91
+MENA,Saudi Arabia,Comedy & meme culture,1570.7
+MENA,Saudi Arabia,Crypto & side hustles,2161.24
+MENA,Saudi Arabia,Digital activism & political,70.62
+MENA,Saudi Arabia,Food & recipe trends,1157.23
+MENA,Saudi Arabia,Football & sports culture,1520.7
+MENA,Saudi Arabia,Gaming & esports,4333.31
+MENA,Saudi Arabia,Mental health awareness,587.39
+MENA,Saudi Arabia,Modest fashion & heritage,5282.34
+MENA,Saudi Arabia,Privacy & data rights,127.73
+MENA,Saudi Arabia,Skincare & self-care,1805.75
+MENA,Saudi Arabia,Streetwear & sneakers,1087.83
+MENA,Saudi Arabia,Study/productivity aesthetic,704.66
+MENA,Saudi Arabia,Sustainable fashion,163.58
+MENA,Tunisia,AI tools & productivity,625.58
+MENA,Tunisia,Climate activism,150.74
+MENA,Tunisia,Comedy & meme culture,3195.32
+MENA,Tunisia,Crypto & side hustles,1941.9
+MENA,Tunisia,Digital activism & political,5703.88
+MENA,Tunisia,Food & recipe trends,882.47
+MENA,Tunisia,Football & sports culture,1759.4
+MENA,Tunisia,Gaming & esports,1580.32
+MENA,Tunisia,Mental health awareness,705.56
+MENA,Tunisia,Modest fashion & heritage,1127.84
+MENA,Tunisia,Privacy & data rights,330.94
+MENA,Tunisia,Skincare & self-care,612.29
+MENA,Tunisia,Streetwear & sneakers,497.61
+MENA,Tunisia,Study/productivity aesthetic,592.53
+MENA,Tunisia,Sustainable fashion,299.59
+MENA,UAE,AI tools & productivity,1345.11
+MENA,UAE,Climate activism,70.26
+MENA,UAE,Comedy & meme culture,1872.54
+MENA,UAE,Crypto & side hustles,2009.71
+MENA,UAE,Digital activism & political,108.74
+MENA,UAE,Food & recipe trends,926.21
+MENA,UAE,Football & sports culture,1313.97
+MENA,UAE,Gaming & esports,4776.2
+MENA,UAE,Mental health awareness,523.7
+MENA,UAE,Modest fashion & heritage,5714.86
+MENA,UAE,Privacy & data rights,139.03
+MENA,UAE,Skincare & self-care,1910.93
+MENA,UAE,Streetwear & sneakers,1067.6
+MENA,UAE,Study/productivity aesthetic,588.56
+MENA,UAE,Sustainable fashion,152.27

@@ -1,0 +1,781 @@
+date,trend_category,post_count
+2025-08-01,AI tools & productivity,0.9591836734693877
+2025-08-08,AI tools & productivity,1.1020408163265305
+2025-08-15,AI tools & productivity,1.0888888888888888
+2025-08-22,AI tools & productivity,0.75
+2025-08-29,AI tools & productivity,0.88
+2025-09-05,AI tools & productivity,1.0434782608695652
+2025-09-12,AI tools & productivity,1.02
+2025-09-19,AI tools & productivity,1.163265306122449
+2025-09-26,AI tools & productivity,0.8409090909090909
+2025-10-03,AI tools & productivity,0.84
+2025-10-10,AI tools & productivity,1.0
+2025-10-17,AI tools & productivity,1.1428571428571428
+2025-10-24,AI tools & productivity,1.125
+2025-10-31,AI tools & productivity,1.28
+2025-11-07,AI tools & productivity,1.5454545454545454
+2025-11-14,AI tools & productivity,2.4651162790697674
+2025-11-21,AI tools & productivity,3.263157894736842
+2025-11-28,AI tools & productivity,4.3
+2025-12-05,AI tools & productivity,5.7
+2025-12-12,AI tools & productivity,8.365384615384615
+2025-12-19,AI tools & productivity,9.84
+2025-12-26,AI tools & productivity,12.25
+2026-01-02,AI tools & productivity,12.51063829787234
+2026-01-09,AI tools & productivity,17.358490566037737
+2026-01-16,AI tools & productivity,20.86046511627907
+2026-01-23,AI tools & productivity,22.408163265306122
+2026-01-30,AI tools & productivity,21.84
+2026-02-06,AI tools & productivity,22.930232558139537
+2026-02-13,AI tools & productivity,23.404255319148938
+2026-02-20,AI tools & productivity,22.568181818181817
+2026-02-27,AI tools & productivity,22.6
+2026-03-06,AI tools & productivity,21.28205128205128
+2026-03-13,AI tools & productivity,18.431818181818183
+2026-03-20,AI tools & productivity,16.431818181818183
+2026-03-27,AI tools & productivity,14.08695652173913
+2026-04-03,AI tools & productivity,12.26923076923077
+2026-04-10,AI tools & productivity,9.422222222222222
+2026-04-17,AI tools & productivity,8.173913043478262
+2026-04-24,AI tools & productivity,5.702127659574468
+2026-05-01,AI tools & productivity,4.586956521739131
+2026-05-08,AI tools & productivity,3.4705882352941178
+2026-05-15,AI tools & productivity,2.5681818181818183
+2026-05-22,AI tools & productivity,1.3617021276595744
+2026-05-29,AI tools & productivity,1.4444444444444444
+2026-06-05,AI tools & productivity,1.0444444444444445
+2026-06-12,AI tools & productivity,0.94
+2026-06-19,AI tools & productivity,1.0416666666666667
+2026-06-26,AI tools & productivity,0.975609756097561
+2026-07-03,AI tools & productivity,0.9347826086956522
+2026-07-10,AI tools & productivity,0.9787234042553191
+2026-07-17,AI tools & productivity,1.0612244897959184
+2026-07-24,AI tools & productivity,1.1224489795918366
+2025-08-01,Climate activism,0.7111111111111111
+2025-08-08,Climate activism,1.2127659574468086
+2025-08-15,Climate activism,0.9791666666666666
+2025-08-22,Climate activism,1.2127659574468086
+2025-08-29,Climate activism,0.7391304347826086
+2025-09-05,Climate activism,0.8571428571428571
+2025-09-12,Climate activism,1.0638297872340425
+2025-09-19,Climate activism,0.8260869565217391
+2025-09-26,Climate activism,0.9795918367346939
+2025-10-03,Climate activism,1.0
+2025-10-10,Climate activism,1.0204081632653061
+2025-10-17,Climate activism,1.0222222222222221
+2025-10-24,Climate activism,1.0833333333333333
+2025-10-31,Climate activism,0.9782608695652174
+2025-11-07,Climate activism,1.0434782608695652
+2025-11-14,Climate activism,0.8
+2025-11-21,Climate activism,1.326086956521739
+2025-11-28,Climate activism,1.0869565217391304
+2025-12-05,Climate activism,1.1136363636363635
+2025-12-12,Climate activism,1.1363636363636365
+2025-12-19,Climate activism,0.851063829787234
+2025-12-26,Climate activism,1.1538461538461537
+2026-01-02,Climate activism,0.8958333333333334
+2026-01-09,Climate activism,0.7857142857142857
+2026-01-16,Climate activism,0.9615384615384616
+2026-01-23,Climate activism,1.1063829787234043
+2026-01-30,Climate activism,1.0888888888888888
+2026-02-06,Climate activism,0.9772727272727273
+2026-02-13,Climate activism,1.288888888888889
+2026-02-20,Climate activism,1.0434782608695652
+2026-02-27,Climate activism,1.5
+2026-03-06,Climate activism,1.74
+2026-03-13,Climate activism,2.0217391304347827
+2026-03-20,Climate activism,2.78
+2026-03-27,Climate activism,4.638297872340425
+2026-04-03,Climate activism,5.510204081632653
+2026-04-10,Climate activism,6.882352941176471
+2026-04-17,Climate activism,8.78
+2026-04-24,Climate activism,10.9375
+2026-05-01,Climate activism,11.6
+2026-05-08,Climate activism,15.46808510638298
+2026-05-15,Climate activism,15.854166666666666
+2026-05-22,Climate activism,17.41860465116279
+2026-05-29,Climate activism,16.152173913043477
+2026-06-05,Climate activism,18.04255319148936
+2026-06-12,Climate activism,17.770833333333332
+2026-06-19,Climate activism,17.41176470588235
+2026-06-26,Climate activism,14.73076923076923
+2026-07-03,Climate activism,15.0
+2026-07-10,Climate activism,10.833333333333334
+2026-07-17,Climate activism,9.911111111111111
+2026-07-24,Climate activism,8.956521739130435
+2025-08-01,Comedy & meme culture,3.2291666666666665
+2025-08-08,Comedy & meme culture,3.7560975609756095
+2025-08-15,Comedy & meme culture,5.74
+2025-08-22,Comedy & meme culture,8.4375
+2025-08-29,Comedy & meme culture,9.607843137254902
+2025-09-05,Comedy & meme culture,13.023255813953488
+2025-09-12,Comedy & meme culture,16.53061224489796
+2025-09-19,Comedy & meme culture,18.046511627906977
+2025-09-26,Comedy & meme culture,21.93617021276596
+2025-10-03,Comedy & meme culture,24.377777777777776
+2025-10-10,Comedy & meme culture,29.163265306122447
+2025-10-17,Comedy & meme culture,29.148936170212767
+2025-10-24,Comedy & meme culture,30.644444444444446
+2025-10-31,Comedy & meme culture,31.711111111111112
+2025-11-07,Comedy & meme culture,29.5625
+2025-11-14,Comedy & meme culture,29.59259259259259
+2025-11-21,Comedy & meme culture,29.208333333333332
+2025-11-28,Comedy & meme culture,24.942307692307693
+2025-12-05,Comedy & meme culture,20.86
+2025-12-12,Comedy & meme culture,19.4375
+2025-12-19,Comedy & meme culture,15.25
+2025-12-26,Comedy & meme culture,14.08695652173913
+2026-01-02,Comedy & meme culture,9.83673469387755
+2026-01-09,Comedy & meme culture,7.309523809523809
+2026-01-16,Comedy & meme culture,5.86
+2026-01-23,Comedy & meme culture,4.2075471698113205
+2026-01-30,Comedy & meme culture,2.6444444444444444
+2026-02-06,Comedy & meme culture,1.4651162790697674
+2026-02-13,Comedy & meme culture,1.3333333333333333
+2026-02-20,Comedy & meme culture,1.0192307692307692
+2026-02-27,Comedy & meme culture,0.9387755102040817
+2026-03-06,Comedy & meme culture,0.9787234042553191
+2026-03-13,Comedy & meme culture,1.2448979591836735
+2026-03-20,Comedy & meme culture,1.1
+2026-03-27,Comedy & meme culture,1.0408163265306123
+2026-04-03,Comedy & meme culture,1.2222222222222223
+2026-04-10,Comedy & meme culture,1.1176470588235294
+2026-04-17,Comedy & meme culture,0.9777777777777777
+2026-04-24,Comedy & meme culture,0.8490566037735849
+2026-05-01,Comedy & meme culture,1.1555555555555554
+2026-05-08,Comedy & meme culture,0.9591836734693877
+2026-05-15,Comedy & meme culture,1.0
+2026-05-22,Comedy & meme culture,1.0204081632653061
+2026-05-29,Comedy & meme culture,1.1304347826086956
+2026-06-05,Comedy & meme culture,1.163265306122449
+2026-06-12,Comedy & meme culture,0.8913043478260869
+2026-06-19,Comedy & meme culture,0.8372093023255814
+2026-06-26,Comedy & meme culture,0.9387755102040817
+2026-07-03,Comedy & meme culture,0.9791666666666666
+2026-07-10,Comedy & meme culture,1.06
+2026-07-17,Comedy & meme culture,1.0666666666666667
+2026-07-24,Comedy & meme culture,0.8775510204081632
+2025-08-01,Crypto & side hustles,9.52
+2025-08-08,Crypto & side hustles,11.173913043478262
+2025-08-15,Crypto & side hustles,13.54
+2025-08-22,Crypto & side hustles,14.75
+2025-08-29,Crypto & side hustles,18.82
+2025-09-05,Crypto & side hustles,20.152173913043477
+2025-09-12,Crypto & side hustles,21.46
+2025-09-19,Crypto & side hustles,21.522727272727273
+2025-09-26,Crypto & side hustles,22.50980392156863
+2025-10-03,Crypto & side hustles,20.306122448979593
+2025-10-10,Crypto & side hustles,22.25531914893617
+2025-10-17,Crypto & side hustles,19.660377358490567
+2025-10-24,Crypto & side hustles,18.666666666666668
+2025-10-31,Crypto & side hustles,17.069767441860463
+2025-11-07,Crypto & side hustles,13.209302325581396
+2025-11-14,Crypto & side hustles,11.537037037037036
+2025-11-21,Crypto & side hustles,9.041666666666666
+2025-11-28,Crypto & side hustles,8.254901960784315
+2025-12-05,Crypto & side hustles,5.386363636363637
+2025-12-12,Crypto & side hustles,4.270833333333333
+2025-12-19,Crypto & side hustles,2.86
+2025-12-26,Crypto & side hustles,2.18
+2026-01-02,Crypto & side hustles,1.4615384615384615
+2026-01-09,Crypto & side hustles,1.2666666666666666
+2026-01-16,Crypto & side hustles,1.2830188679245282
+2026-01-23,Crypto & side hustles,1.1304347826086956
+2026-01-30,Crypto & side hustles,1.0909090909090908
+2026-02-06,Crypto & side hustles,1.2926829268292683
+2026-02-13,Crypto & side hustles,1.02
+2026-02-20,Crypto & side hustles,1.12
+2026-02-27,Crypto & side hustles,1.297872340425532
+2026-03-06,Crypto & side hustles,1.0784313725490196
+2026-03-13,Crypto & side hustles,0.8409090909090909
+2026-03-20,Crypto & side hustles,1.0666666666666667
+2026-03-27,Crypto & side hustles,1.0869565217391304
+2026-04-03,Crypto & side hustles,1.125
+2026-04-10,Crypto & side hustles,1.0816326530612246
+2026-04-17,Crypto & side hustles,0.7346938775510204
+2026-04-24,Crypto & side hustles,0.9574468085106383
+2026-05-01,Crypto & side hustles,1.0943396226415094
+2026-05-08,Crypto & side hustles,1.1914893617021276
+2026-05-15,Crypto & side hustles,0.6875
+2026-05-22,Crypto & side hustles,1.2549019607843137
+2026-05-29,Crypto & side hustles,0.9302325581395349
+2026-06-05,Crypto & side hustles,1.1
+2026-06-12,Crypto & side hustles,1.1551724137931034
+2026-06-19,Crypto & side hustles,0.7659574468085106
+2026-06-26,Crypto & side hustles,0.9803921568627451
+2026-07-03,Crypto & side hustles,1.0454545454545454
+2026-07-10,Crypto & side hustles,1.0208333333333333
+2026-07-17,Crypto & side hustles,1.0217391304347827
+2026-07-24,Crypto & side hustles,0.9791666666666666
+2025-08-01,Digital activism & political,0.8888888888888888
+2025-08-08,Digital activism & political,0.6346153846153846
+2025-08-15,Digital activism & political,0.9574468085106383
+2025-08-22,Digital activism & political,1.3125
+2025-08-29,Digital activism & political,1.297872340425532
+2025-09-05,Digital activism & political,1.3461538461538463
+2025-09-12,Digital activism & political,0.9574468085106383
+2025-09-19,Digital activism & political,0.9069767441860465
+2025-09-26,Digital activism & political,1.0754716981132075
+2025-10-03,Digital activism & political,1.469387755102041
+2025-10-10,Digital activism & political,2.418181818181818
+2025-10-17,Digital activism & political,3.2244897959183674
+2025-10-24,Digital activism & political,3.857142857142857
+2025-10-31,Digital activism & political,4.6
+2025-11-07,Digital activism & political,6.755102040816326
+2025-11-14,Digital activism & political,8.82
+2025-11-21,Digital activism & political,12.804347826086957
+2025-11-28,Digital activism & political,13.458333333333334
+2025-12-05,Digital activism & political,17.108695652173914
+2025-12-12,Digital activism & political,19.42222222222222
+2025-12-19,Digital activism & political,18.76595744680851
+2025-12-26,Digital activism & political,23.816326530612244
+2026-01-02,Digital activism & political,27.6875
+2026-01-09,Digital activism & political,29.7
+2026-01-16,Digital activism & political,29.340425531914892
+2026-01-23,Digital activism & political,22.0
+2026-01-30,Digital activism & political,24.72340425531915
+2026-02-06,Digital activism & political,23.729166666666668
+2026-02-13,Digital activism & political,20.893617021276597
+2026-02-20,Digital activism & political,20.72
+2026-02-27,Digital activism & political,15.98
+2026-03-06,Digital activism & political,12.74468085106383
+2026-03-13,Digital activism & political,11.673469387755102
+2026-03-20,Digital activism & political,8.56
+2026-03-27,Digital activism & political,7.04
+2026-04-03,Digital activism & political,4.591836734693878
+2026-04-10,Digital activism & political,3.9411764705882355
+2026-04-17,Digital activism & political,2.4318181818181817
+2026-04-24,Digital activism & political,1.7872340425531914
+2026-05-01,Digital activism & political,1.48
+2026-05-08,Digital activism & political,1.1777777777777778
+2026-05-15,Digital activism & political,1.0416666666666667
+2026-05-22,Digital activism & political,0.8392857142857143
+2026-05-29,Digital activism & political,1.0869565217391304
+2026-06-05,Digital activism & political,0.8444444444444444
+2026-06-12,Digital activism & political,0.8085106382978723
+2026-06-19,Digital activism & political,0.9607843137254902
+2026-06-26,Digital activism & political,1.0666666666666667
+2026-07-03,Digital activism & political,1.108695652173913
+2026-07-10,Digital activism & political,1.0
+2026-07-17,Digital activism & political,0.8541666666666666
+2026-07-24,Digital activism & political,1.0612244897959184
+2025-08-01,Food & recipe trends,1.9807692307692308
+2025-08-08,Food & recipe trends,3.106382978723404
+2025-08-15,Food & recipe trends,4.025
+2025-08-22,Food & recipe trends,5.790697674418604
+2025-08-29,Food & recipe trends,6.346938775510204
+2025-09-05,Food & recipe trends,9.6
+2025-09-12,Food & recipe trends,10.865384615384615
+2025-09-19,Food & recipe trends,11.355555555555556
+2025-09-26,Food & recipe trends,15.5
+2025-10-03,Food & recipe trends,17.065217391304348
+2025-10-10,Food & recipe trends,19.666666666666668
+2025-10-17,Food & recipe trends,21.20408163265306
+2025-10-24,Food & recipe trends,20.083333333333332
+2025-10-31,Food & recipe trends,21.489795918367346
+2025-11-07,Food & recipe trends,21.0
+2025-11-14,Food & recipe trends,20.791666666666668
+2025-11-21,Food & recipe trends,17.97872340425532
+2025-11-28,Food & recipe trends,17.34
+2025-12-05,Food & recipe trends,14.533333333333333
+2025-12-12,Food & recipe trends,13.604166666666666
+2025-12-19,Food & recipe trends,10.627906976744185
+2025-12-26,Food & recipe trends,8.8
+2026-01-02,Food & recipe trends,7.52
+2026-01-09,Food & recipe trends,5.32
+2026-01-16,Food & recipe trends,3.6530612244897958
+2026-01-23,Food & recipe trends,2.411764705882353
+2026-01-30,Food & recipe trends,2.0625
+2026-02-06,Food & recipe trends,1.326086956521739
+2026-02-13,Food & recipe trends,1.127659574468085
+2026-02-20,Food & recipe trends,0.8
+2026-02-27,Food & recipe trends,1.0434782608695652
+2026-03-06,Food & recipe trends,1.24
+2026-03-13,Food & recipe trends,0.9
+2026-03-20,Food & recipe trends,0.8913043478260869
+2026-03-27,Food & recipe trends,0.8979591836734694
+2026-04-03,Food & recipe trends,1.1304347826086956
+2026-04-10,Food & recipe trends,0.7884615384615384
+2026-04-17,Food & recipe trends,0.8444444444444444
+2026-04-24,Food & recipe trends,0.8085106382978723
+2026-05-01,Food & recipe trends,1.3773584905660377
+2026-05-08,Food & recipe trends,0.9636363636363636
+2026-05-15,Food & recipe trends,1.0961538461538463
+2026-05-22,Food & recipe trends,1.3333333333333333
+2026-05-29,Food & recipe trends,0.68
+2026-06-05,Food & recipe trends,1.1304347826086956
+2026-06-12,Food & recipe trends,1.08
+2026-06-19,Food & recipe trends,0.8958333333333334
+2026-06-26,Food & recipe trends,0.851063829787234
+2026-07-03,Food & recipe trends,0.717391304347826
+2026-07-10,Food & recipe trends,0.9111111111111111
+2026-07-17,Food & recipe trends,1.0238095238095237
+2026-07-24,Food & recipe trends,1.1521739130434783
+2025-08-01,Football & sports culture,1.0714285714285714
+2025-08-08,Football & sports culture,0.7906976744186046
+2025-08-15,Football & sports culture,1.1071428571428572
+2025-08-22,Football & sports culture,0.9622641509433962
+2025-08-29,Football & sports culture,1.065217391304348
+2025-09-05,Football & sports culture,0.7954545454545454
+2025-09-12,Football & sports culture,1.0625
+2025-09-19,Football & sports culture,0.8958333333333334
+2025-09-26,Football & sports culture,0.7142857142857143
+2025-10-03,Football & sports culture,1.0434782608695652
+2025-10-10,Football & sports culture,0.8837209302325582
+2025-10-17,Football & sports culture,1.22
+2025-10-24,Football & sports culture,1.1111111111111112
+2025-10-31,Football & sports culture,1.1224489795918366
+2025-11-07,Football & sports culture,0.7608695652173914
+2025-11-14,Football & sports culture,0.8846153846153846
+2025-11-21,Football & sports culture,1.4705882352941178
+2025-11-28,Football & sports culture,2.2448979591836733
+2025-12-05,Football & sports culture,3.28
+2025-12-12,Football & sports culture,4.717391304347826
+2025-12-19,Football & sports culture,6.127659574468085
+2025-12-26,Football & sports culture,8.196078431372548
+2026-01-02,Football & sports culture,10.23076923076923
+2026-01-09,Football & sports culture,13.416666666666666
+2026-01-16,Football & sports culture,15.585365853658537
+2026-01-23,Football & sports culture,20.304347826086957
+2026-01-30,Football & sports culture,21.22222222222222
+2026-02-06,Football & sports culture,23.057692307692307
+2026-02-13,Football & sports culture,22.595238095238095
+2026-02-20,Football & sports culture,26.82608695652174
+2026-02-27,Football & sports culture,27.76086956521739
+2026-03-06,Football & sports culture,23.24074074074074
+2026-03-13,Football & sports culture,23.4
+2026-03-20,Football & sports culture,22.78048780487805
+2026-03-27,Football & sports culture,20.88888888888889
+2026-04-03,Football & sports culture,18.166666666666668
+2026-04-10,Football & sports culture,15.977272727272727
+2026-04-17,Football & sports culture,13.431818181818182
+2026-04-24,Football & sports culture,9.73469387755102
+2026-05-01,Football & sports culture,7.92
+2026-05-08,Football & sports culture,5.645833333333333
+2026-05-15,Football & sports culture,4.085106382978723
+2026-05-22,Football & sports culture,3.185185185185185
+2026-05-29,Football & sports culture,2.0697674418604652
+2026-06-05,Football & sports culture,1.8444444444444446
+2026-06-12,Football & sports culture,1.2045454545454546
+2026-06-19,Football & sports culture,1.0
+2026-06-26,Football & sports culture,0.8444444444444444
+2026-07-03,Football & sports culture,0.9615384615384616
+2026-07-10,Football & sports culture,1.0408163265306123
+2026-07-17,Football & sports culture,0.8571428571428571
+2026-07-24,Football & sports culture,0.8372093023255814
+2025-08-01,Gaming & esports,1.0566037735849056
+2025-08-08,Gaming & esports,1.0
+2025-08-15,Gaming & esports,0.9782608695652174
+2025-08-22,Gaming & esports,0.8409090909090909
+2025-08-29,Gaming & esports,0.8823529411764706
+2025-09-05,Gaming & esports,0.825
+2025-09-12,Gaming & esports,1.0625
+2025-09-19,Gaming & esports,0.8333333333333334
+2025-09-26,Gaming & esports,0.6888888888888889
+2025-10-03,Gaming & esports,1.0204081632653061
+2025-10-10,Gaming & esports,1.0222222222222221
+2025-10-17,Gaming & esports,1.2653061224489797
+2025-10-24,Gaming & esports,0.9583333333333334
+2025-10-31,Gaming & esports,1.0212765957446808
+2025-11-07,Gaming & esports,1.2830188679245282
+2025-11-14,Gaming & esports,1.22
+2025-11-21,Gaming & esports,1.8297872340425532
+2025-11-28,Gaming & esports,2.8958333333333335
+2025-12-05,Gaming & esports,3.4791666666666665
+2025-12-12,Gaming & esports,4.980392156862745
+2025-12-19,Gaming & esports,8.020408163265307
+2025-12-26,Gaming & esports,9.83673469387755
+2026-01-02,Gaming & esports,12.055555555555555
+2026-01-09,Gaming & esports,14.387755102040817
+2026-01-16,Gaming & esports,17.08695652173913
+2026-01-23,Gaming & esports,21.23404255319149
+2026-01-30,Gaming & esports,22.877551020408163
+2026-02-06,Gaming & esports,23.930232558139537
+2026-02-13,Gaming & esports,28.125
+2026-02-20,Gaming & esports,29.1875
+2026-02-27,Gaming & esports,29.85185185185185
+2026-03-06,Gaming & esports,27.48076923076923
+2026-03-13,Gaming & esports,26.0625
+2026-03-20,Gaming & esports,24.901960784313726
+2026-03-27,Gaming & esports,22.3125
+2026-04-03,Gaming & esports,21.214285714285715
+2026-04-10,Gaming & esports,17.369565217391305
+2026-04-17,Gaming & esports,15.91304347826087
+2026-04-24,Gaming & esports,12.782608695652174
+2026-05-01,Gaming & esports,9.404255319148936
+2026-05-08,Gaming & esports,7.673469387755102
+2026-05-15,Gaming & esports,5.906976744186046
+2026-05-22,Gaming & esports,3.7142857142857144
+2026-05-29,Gaming & esports,2.96
+2026-06-05,Gaming & esports,2.0
+2026-06-12,Gaming & esports,0.9787234042553191
+2026-06-19,Gaming & esports,1.025
+2026-06-26,Gaming & esports,0.95
+2026-07-03,Gaming & esports,0.9782608695652174
+2026-07-10,Gaming & esports,0.8260869565217391
+2026-07-17,Gaming & esports,0.8604651162790697
+2026-07-24,Gaming & esports,1.0943396226415094
+2025-08-01,Mental health awareness,1.0
+2025-08-08,Mental health awareness,1.0816326530612246
+2025-08-15,Mental health awareness,0.8297872340425532
+2025-08-22,Mental health awareness,1.06
+2025-08-29,Mental health awareness,0.9818181818181818
+2025-09-05,Mental health awareness,1.5
+2025-09-12,Mental health awareness,1.8979591836734695
+2025-09-19,Mental health awareness,2.9622641509433962
+2025-09-26,Mental health awareness,3.9
+2025-10-03,Mental health awareness,5.425531914893617
+2025-10-10,Mental health awareness,6.82
+2025-10-17,Mental health awareness,9.152173913043478
+2025-10-24,Mental health awareness,10.08695652173913
+2025-10-31,Mental health awareness,12.693877551020408
+2025-11-07,Mental health awareness,16.15909090909091
+2025-11-14,Mental health awareness,16.918367346938776
+2025-11-21,Mental health awareness,19.285714285714285
+2025-11-28,Mental health awareness,19.761904761904763
+2025-12-05,Mental health awareness,21.224489795918366
+2025-12-12,Mental health awareness,20.591836734693878
+2025-12-19,Mental health awareness,22.375
+2025-12-26,Mental health awareness,18.918367346938776
+2026-01-02,Mental health awareness,17.391304347826086
+2026-01-09,Mental health awareness,16.41176470588235
+2026-01-16,Mental health awareness,15.557692307692308
+2026-01-23,Mental health awareness,13.041666666666666
+2026-01-30,Mental health awareness,11.046511627906977
+2026-02-06,Mental health awareness,8.770833333333334
+2026-02-13,Mental health awareness,6.42
+2026-02-20,Mental health awareness,5.34
+2026-02-27,Mental health awareness,3.9583333333333335
+2026-03-06,Mental health awareness,2.72
+2026-03-13,Mental health awareness,2.0816326530612246
+2026-03-20,Mental health awareness,1.2083333333333333
+2026-03-27,Mental health awareness,1.0408163265306123
+2026-04-03,Mental health awareness,1.0384615384615385
+2026-04-10,Mental health awareness,1.108695652173913
+2026-04-17,Mental health awareness,1.0833333333333333
+2026-04-24,Mental health awareness,0.86
+2026-05-01,Mental health awareness,1.1063829787234043
+2026-05-08,Mental health awareness,0.8269230769230769
+2026-05-15,Mental health awareness,0.851063829787234
+2026-05-22,Mental health awareness,1.0588235294117647
+2026-05-29,Mental health awareness,1.0434782608695652
+2026-06-05,Mental health awareness,0.9811320754716981
+2026-06-12,Mental health awareness,1.0625
+2026-06-19,Mental health awareness,1.0
+2026-06-26,Mental health awareness,1.1176470588235294
+2026-07-03,Mental health awareness,1.1590909090909092
+2026-07-10,Mental health awareness,1.108695652173913
+2026-07-17,Mental health awareness,0.9411764705882353
+2026-07-24,Mental health awareness,1.0227272727272727
+2025-08-01,Modest fashion & heritage,7.608695652173913
+2025-08-08,Modest fashion & heritage,10.408163265306122
+2025-08-15,Modest fashion & heritage,11.448979591836734
+2025-08-22,Modest fashion & heritage,13.979166666666666
+2025-08-29,Modest fashion & heritage,18.681818181818183
+2025-09-05,Modest fashion & heritage,20.208333333333332
+2025-09-12,Modest fashion & heritage,18.68
+2025-09-19,Modest fashion & heritage,23.148936170212767
+2025-09-26,Modest fashion & heritage,22.9375
+2025-10-03,Modest fashion & heritage,22.88
+2025-10-10,Modest fashion & heritage,25.26829268292683
+2025-10-17,Modest fashion & heritage,21.166666666666668
+2025-10-24,Modest fashion & heritage,19.692307692307693
+2025-10-31,Modest fashion & heritage,19.0
+2025-11-07,Modest fashion & heritage,16.857142857142858
+2025-11-14,Modest fashion & heritage,15.591836734693878
+2025-11-21,Modest fashion & heritage,10.510204081632653
+2025-11-28,Modest fashion & heritage,9.5
+2025-12-05,Modest fashion & heritage,7.448979591836735
+2025-12-12,Modest fashion & heritage,5.530612244897959
+2025-12-19,Modest fashion & heritage,4.708333333333333
+2025-12-26,Modest fashion & heritage,3.2452830188679247
+2026-01-02,Modest fashion & heritage,1.9130434782608696
+2026-01-09,Modest fashion & heritage,1.9574468085106382
+2026-01-16,Modest fashion & heritage,1.5660377358490567
+2026-01-23,Modest fashion & heritage,1.4423076923076923
+2026-01-30,Modest fashion & heritage,1.0
+2026-02-06,Modest fashion & heritage,0.9387755102040817
+2026-02-13,Modest fashion & heritage,0.8043478260869565
+2026-02-20,Modest fashion & heritage,1.0961538461538463
+2026-02-27,Modest fashion & heritage,1.0
+2026-03-06,Modest fashion & heritage,1.1063829787234043
+2026-03-13,Modest fashion & heritage,0.9019607843137255
+2026-03-20,Modest fashion & heritage,1.2083333333333333
+2026-03-27,Modest fashion & heritage,1.0612244897959184
+2026-04-03,Modest fashion & heritage,0.96
+2026-04-10,Modest fashion & heritage,1.0869565217391304
+2026-04-17,Modest fashion & heritage,1.3111111111111111
+2026-04-24,Modest fashion & heritage,0.9090909090909091
+2026-05-01,Modest fashion & heritage,1.0769230769230769
+2026-05-08,Modest fashion & heritage,1.0392156862745099
+2026-05-15,Modest fashion & heritage,1.2083333333333333
+2026-05-22,Modest fashion & heritage,1.0
+2026-05-29,Modest fashion & heritage,1.1568627450980393
+2026-06-05,Modest fashion & heritage,1.2916666666666667
+2026-06-12,Modest fashion & heritage,1.0196078431372548
+2026-06-19,Modest fashion & heritage,1.0
+2026-06-26,Modest fashion & heritage,0.8936170212765957
+2026-07-03,Modest fashion & heritage,1.0227272727272727
+2026-07-10,Modest fashion & heritage,1.0
+2026-07-17,Modest fashion & heritage,0.9803921568627451
+2026-07-24,Modest fashion & heritage,0.7906976744186046
+2025-08-01,Privacy & data rights,1.1956521739130435
+2025-08-08,Privacy & data rights,0.86
+2025-08-15,Privacy & data rights,0.8125
+2025-08-22,Privacy & data rights,1.1041666666666667
+2025-08-29,Privacy & data rights,0.8043478260869565
+2025-09-05,Privacy & data rights,0.9782608695652174
+2025-09-12,Privacy & data rights,1.0227272727272727
+2025-09-19,Privacy & data rights,1.0
+2025-09-26,Privacy & data rights,0.8695652173913043
+2025-10-03,Privacy & data rights,0.9387755102040817
+2025-10-10,Privacy & data rights,1.06
+2025-10-17,Privacy & data rights,0.9583333333333334
+2025-10-24,Privacy & data rights,0.7916666666666666
+2025-10-31,Privacy & data rights,1.1956521739130435
+2025-11-07,Privacy & data rights,1.4375
+2025-11-14,Privacy & data rights,2.0784313725490198
+2025-11-21,Privacy & data rights,3.12
+2025-11-28,Privacy & data rights,3.830188679245283
+2025-12-05,Privacy & data rights,4.891304347826087
+2025-12-12,Privacy & data rights,6.173913043478261
+2025-12-19,Privacy & data rights,8.387755102040817
+2025-12-26,Privacy & data rights,10.0
+2026-01-02,Privacy & data rights,12.75
+2026-01-09,Privacy & data rights,13.416666666666666
+2026-01-16,Privacy & data rights,15.82
+2026-01-23,Privacy & data rights,17.571428571428573
+2026-01-30,Privacy & data rights,18.058823529411764
+2026-02-06,Privacy & data rights,17.3125
+2026-02-13,Privacy & data rights,18.46938775510204
+2026-02-20,Privacy & data rights,20.48
+2026-02-27,Privacy & data rights,18.115384615384617
+2026-03-06,Privacy & data rights,16.382978723404257
+2026-03-13,Privacy & data rights,16.88888888888889
+2026-03-20,Privacy & data rights,13.720930232558139
+2026-03-27,Privacy & data rights,11.857142857142858
+2026-04-03,Privacy & data rights,10.36734693877551
+2026-04-10,Privacy & data rights,7.862745098039215
+2026-04-17,Privacy & data rights,6.326530612244898
+2026-04-24,Privacy & data rights,4.92
+2026-05-01,Privacy & data rights,3.6
+2026-05-08,Privacy & data rights,2.511627906976744
+2026-05-15,Privacy & data rights,1.816326530612245
+2026-05-22,Privacy & data rights,1.4259259259259258
+2026-05-29,Privacy & data rights,1.36
+2026-06-05,Privacy & data rights,1.0434782608695652
+2026-06-12,Privacy & data rights,1.2222222222222223
+2026-06-19,Privacy & data rights,1.1041666666666667
+2026-06-26,Privacy & data rights,0.9782608695652174
+2026-07-03,Privacy & data rights,0.8888888888888888
+2026-07-10,Privacy & data rights,0.96
+2026-07-17,Privacy & data rights,1.0204081632653061
+2026-07-24,Privacy & data rights,1.0434782608695652
+2025-08-01,Skincare & self-care,0.8913043478260869
+2025-08-08,Skincare & self-care,0.9387755102040817
+2025-08-15,Skincare & self-care,1.1224489795918366
+2025-08-22,Skincare & self-care,0.9565217391304348
+2025-08-29,Skincare & self-care,0.9375
+2025-09-05,Skincare & self-care,1.1
+2025-09-12,Skincare & self-care,1.0625
+2025-09-19,Skincare & self-care,1.1
+2025-09-26,Skincare & self-care,0.9565217391304348
+2025-10-03,Skincare & self-care,1.0227272727272727
+2025-10-10,Skincare & self-care,1.0227272727272727
+2025-10-17,Skincare & self-care,0.98
+2025-10-24,Skincare & self-care,1.02
+2025-10-31,Skincare & self-care,0.8780487804878049
+2025-11-07,Skincare & self-care,0.9782608695652174
+2025-11-14,Skincare & self-care,0.98
+2025-11-21,Skincare & self-care,1.08
+2025-11-28,Skincare & self-care,1.9791666666666667
+2025-12-05,Skincare & self-care,2.1020408163265305
+2025-12-12,Skincare & self-care,3.2045454545454546
+2025-12-19,Skincare & self-care,4.1063829787234045
+2025-12-26,Skincare & self-care,5.208333333333333
+2026-01-02,Skincare & self-care,7.788461538461538
+2026-01-09,Skincare & self-care,9.073170731707316
+2026-01-16,Skincare & self-care,11.27659574468085
+2026-01-23,Skincare & self-care,14.32
+2026-01-30,Skincare & self-care,17.208333333333332
+2026-02-06,Skincare & self-care,18.384615384615383
+2026-02-13,Skincare & self-care,21.145833333333332
+2026-02-20,Skincare & self-care,23.291666666666668
+2026-02-27,Skincare & self-care,24.104166666666668
+2026-03-06,Skincare & self-care,24.208333333333332
+2026-03-13,Skincare & self-care,23.666666666666668
+2026-03-20,Skincare & self-care,22.081632653061224
+2026-03-27,Skincare & self-care,19.98
+2026-04-03,Skincare & self-care,18.25531914893617
+2026-04-10,Skincare & self-care,16.162790697674417
+2026-04-17,Skincare & self-care,14.608695652173912
+2026-04-24,Skincare & self-care,11.645833333333334
+2026-05-01,Skincare & self-care,9.6
+2026-05-08,Skincare & self-care,7.75
+2026-05-15,Skincare & self-care,5.555555555555555
+2026-05-22,Skincare & self-care,4.5
+2026-05-29,Skincare & self-care,2.8958333333333335
+2026-06-05,Skincare & self-care,2.235294117647059
+2026-06-12,Skincare & self-care,1.510204081632653
+2026-06-19,Skincare & self-care,1.0
+2026-06-26,Skincare & self-care,1.0
+2026-07-03,Skincare & self-care,0.9
+2026-07-10,Skincare & self-care,0.9245283018867925
+2026-07-17,Skincare & self-care,0.8181818181818182
+2026-07-24,Skincare & self-care,0.8780487804878049
+2025-08-01,Streetwear & sneakers,1.0638297872340425
+2025-08-08,Streetwear & sneakers,0.9411764705882353
+2025-08-15,Streetwear & sneakers,1.2
+2025-08-22,Streetwear & sneakers,0.9622641509433962
+2025-08-29,Streetwear & sneakers,1.02
+2025-09-05,Streetwear & sneakers,0.7959183673469388
+2025-09-12,Streetwear & sneakers,0.8113207547169812
+2025-09-19,Streetwear & sneakers,1.0454545454545454
+2025-09-26,Streetwear & sneakers,0.9787234042553191
+2025-10-03,Streetwear & sneakers,1.0943396226415094
+2025-10-10,Streetwear & sneakers,0.8163265306122449
+2025-10-17,Streetwear & sneakers,1.06
+2025-10-24,Streetwear & sneakers,1.0408163265306123
+2025-10-31,Streetwear & sneakers,0.8
+2025-11-07,Streetwear & sneakers,0.8372093023255814
+2025-11-14,Streetwear & sneakers,0.8222222222222222
+2025-11-21,Streetwear & sneakers,1.0975609756097562
+2025-11-28,Streetwear & sneakers,1.06
+2025-12-05,Streetwear & sneakers,0.8913043478260869
+2025-12-12,Streetwear & sneakers,0.8333333333333334
+2025-12-19,Streetwear & sneakers,1.0
+2025-12-26,Streetwear & sneakers,0.8846153846153846
+2026-01-02,Streetwear & sneakers,0.9361702127659575
+2026-01-09,Streetwear & sneakers,1.2727272727272727
+2026-01-16,Streetwear & sneakers,1.148936170212766
+2026-01-23,Streetwear & sneakers,0.98
+2026-01-30,Streetwear & sneakers,1.0444444444444445
+2026-02-06,Streetwear & sneakers,0.9565217391304348
+2026-02-13,Streetwear & sneakers,0.8653846153846154
+2026-02-20,Streetwear & sneakers,1.108695652173913
+2026-02-27,Streetwear & sneakers,1.7551020408163265
+2026-03-06,Streetwear & sneakers,2.1458333333333335
+2026-03-13,Streetwear & sneakers,2.4545454545454546
+2026-03-20,Streetwear & sneakers,4.06
+2026-03-27,Streetwear & sneakers,4.66
+2026-04-03,Streetwear & sneakers,6.642857142857143
+2026-04-10,Streetwear & sneakers,8.96078431372549
+2026-04-17,Streetwear & sneakers,10.679245283018869
+2026-04-24,Streetwear & sneakers,13.454545454545455
+2026-05-01,Streetwear & sneakers,15.64
+2026-05-08,Streetwear & sneakers,17.06
+2026-05-15,Streetwear & sneakers,18.97872340425532
+2026-05-22,Streetwear & sneakers,21.382978723404257
+2026-05-29,Streetwear & sneakers,19.08695652173913
+2026-06-05,Streetwear & sneakers,22.326923076923077
+2026-06-12,Streetwear & sneakers,22.083333333333332
+2026-06-19,Streetwear & sneakers,19.96153846153846
+2026-06-26,Streetwear & sneakers,19.02
+2026-07-03,Streetwear & sneakers,17.150943396226417
+2026-07-10,Streetwear & sneakers,15.191489361702128
+2026-07-17,Streetwear & sneakers,12.767441860465116
+2026-07-24,Streetwear & sneakers,11.162790697674419
+2025-08-01,Study/productivity aesthetic,0.9444444444444444
+2025-08-08,Study/productivity aesthetic,1.0434782608695652
+2025-08-15,Study/productivity aesthetic,0.92
+2025-08-22,Study/productivity aesthetic,1.1914893617021276
+2025-08-29,Study/productivity aesthetic,1.0925925925925926
+2025-09-05,Study/productivity aesthetic,1.0
+2025-09-12,Study/productivity aesthetic,1.0612244897959184
+2025-09-19,Study/productivity aesthetic,0.8235294117647058
+2025-09-26,Study/productivity aesthetic,0.74
+2025-10-03,Study/productivity aesthetic,1.2448979591836735
+2025-10-10,Study/productivity aesthetic,1.1458333333333333
+2025-10-17,Study/productivity aesthetic,1.2
+2025-10-24,Study/productivity aesthetic,1.0
+2025-10-31,Study/productivity aesthetic,0.9444444444444444
+2025-11-07,Study/productivity aesthetic,0.7446808510638298
+2025-11-14,Study/productivity aesthetic,0.7441860465116279
+2025-11-21,Study/productivity aesthetic,1.0434782608695652
+2025-11-28,Study/productivity aesthetic,0.9130434782608695
+2025-12-05,Study/productivity aesthetic,0.9555555555555556
+2025-12-12,Study/productivity aesthetic,1.1521739130434783
+2025-12-19,Study/productivity aesthetic,1.0
+2025-12-26,Study/productivity aesthetic,1.148936170212766
+2026-01-02,Study/productivity aesthetic,1.0238095238095237
+2026-01-09,Study/productivity aesthetic,1.0
+2026-01-16,Study/productivity aesthetic,0.78
+2026-01-23,Study/productivity aesthetic,0.9791666666666666
+2026-01-30,Study/productivity aesthetic,0.8478260869565217
+2026-02-06,Study/productivity aesthetic,0.8958333333333334
+2026-02-13,Study/productivity aesthetic,1.1458333333333333
+2026-02-20,Study/productivity aesthetic,1.4130434782608696
+2026-02-27,Study/productivity aesthetic,1.9259259259259258
+2026-03-06,Study/productivity aesthetic,3.0434782608695654
+2026-03-13,Study/productivity aesthetic,3.6595744680851063
+2026-03-20,Study/productivity aesthetic,5.355555555555555
+2026-03-27,Study/productivity aesthetic,6.333333333333333
+2026-04-03,Study/productivity aesthetic,7.791666666666667
+2026-04-10,Study/productivity aesthetic,9.604166666666666
+2026-04-17,Study/productivity aesthetic,11.837209302325581
+2026-04-24,Study/productivity aesthetic,13.127659574468085
+2026-05-01,Study/productivity aesthetic,15.79245283018868
+2026-05-08,Study/productivity aesthetic,17.48936170212766
+2026-05-15,Study/productivity aesthetic,18.692307692307693
+2026-05-22,Study/productivity aesthetic,18.979591836734695
+2026-05-29,Study/productivity aesthetic,19.170212765957448
+2026-06-05,Study/productivity aesthetic,20.22
+2026-06-12,Study/productivity aesthetic,17.82
+2026-06-19,Study/productivity aesthetic,16.76
+2026-06-26,Study/productivity aesthetic,16.145833333333332
+2026-07-03,Study/productivity aesthetic,13.644444444444444
+2026-07-10,Study/productivity aesthetic,11.88
+2026-07-17,Study/productivity aesthetic,10.209302325581396
+2026-07-24,Study/productivity aesthetic,8.224489795918368
+2025-08-01,Sustainable fashion,1.1219512195121952
+2025-08-08,Sustainable fashion,1.08
+2025-08-15,Sustainable fashion,0.9591836734693877
+2025-08-22,Sustainable fashion,1.0851063829787233
+2025-08-29,Sustainable fashion,1.183673469387755
+2025-09-05,Sustainable fashion,1.1020408163265305
+2025-09-12,Sustainable fashion,1.0227272727272727
+2025-09-19,Sustainable fashion,1.0425531914893618
+2025-09-26,Sustainable fashion,0.8958333333333334
+2025-10-03,Sustainable fashion,0.9555555555555556
+2025-10-10,Sustainable fashion,0.8297872340425532
+2025-10-17,Sustainable fashion,0.8958333333333334
+2025-10-24,Sustainable fashion,1.024390243902439
+2025-10-31,Sustainable fashion,1.0681818181818181
+2025-11-07,Sustainable fashion,1.0204081632653061
+2025-11-14,Sustainable fashion,1.125
+2025-11-21,Sustainable fashion,1.125
+2025-11-28,Sustainable fashion,1.530612244897959
+2025-12-05,Sustainable fashion,1.5510204081632653
+2025-12-12,Sustainable fashion,1.1304347826086956
+2025-12-19,Sustainable fashion,2.2916666666666665
+2025-12-26,Sustainable fashion,2.6808510638297873
+2026-01-02,Sustainable fashion,3.1132075471698113
+2026-01-09,Sustainable fashion,5.956521739130435
+2026-01-16,Sustainable fashion,6.357142857142857
+2026-01-23,Sustainable fashion,8.333333333333334
+2026-01-30,Sustainable fashion,11.244897959183673
+2026-02-06,Sustainable fashion,12.085106382978724
+2026-02-13,Sustainable fashion,11.934782608695652
+2026-02-20,Sustainable fashion,15.215686274509803
+2026-02-27,Sustainable fashion,17.61111111111111
+2026-03-06,Sustainable fashion,18.653846153846153
+2026-03-13,Sustainable fashion,19.571428571428573
+2026-03-20,Sustainable fashion,18.953488372093023
+2026-03-27,Sustainable fashion,23.02127659574468
+2026-04-03,Sustainable fashion,20.58
+2026-04-10,Sustainable fashion,17.52
+2026-04-17,Sustainable fashion,16.53191489361702
+2026-04-24,Sustainable fashion,15.204081632653061
+2026-05-01,Sustainable fashion,11.470588235294118
+2026-05-08,Sustainable fashion,10.235294117647058
+2026-05-15,Sustainable fashion,8.638297872340425
+2026-05-22,Sustainable fashion,6.469387755102041
+2026-05-29,Sustainable fashion,5.510204081632653
+2026-06-05,Sustainable fashion,3.2745098039215685
+2026-06-12,Sustainable fashion,2.4761904761904763
+2026-06-19,Sustainable fashion,2.1875
+2026-06-26,Sustainable fashion,1.346938775510204
+2026-07-03,Sustainable fashion,1.2222222222222223
+2026-07-10,Sustainable fashion,1.0
+2026-07-17,Sustainable fashion,0.7755102040816326
+2026-07-24,Sustainable fashion,1.1020408163265305
